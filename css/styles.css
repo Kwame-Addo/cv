@@ -25,3 +25,9 @@ color: #66BFBF;
   margin-left: auto;
   margin-right: auto;
 }
+a{
+  text decoration: none;
+ }
+a:hover{
+  color:#30e3cb;
+}
