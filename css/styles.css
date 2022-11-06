@@ -26,8 +26,37 @@ color: #66BFBF;
   margin-right: auto;
 }
 a{
-  text decoration: none;
+  text-decoration: none;
  }
 a:hover{
   color:#30e3cb;
+}
+
+.navbar {
+   padding: 0 0 4.5rem;
+    background-color:  #EAF6F6;
+
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.3rem;
+  font-weight: bold;
+    padding: 2rem 0 0 2rem;
+
+}
+
+.nav-item {
+  padding-top: 3.2rem;
+    margin-right: 4.5rem;
+
+}
+.navbar-toggler {
+    padding-top: 2rem;
+
+}
+
+.nav-link {
+  font-family: "Montserrat-light";
+  font-size: 1.2rem;
 }
