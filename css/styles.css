@@ -97,6 +97,7 @@ a:hover{
 @media screen and (max-width: 960px){
   .nav-link {
       text-align: center;
+     font-size: 1.6rem;
   }
 }
 
