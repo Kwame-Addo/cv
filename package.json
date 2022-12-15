@@ -1,0 +1,14 @@
+{
+  "name": "cv-main",
+  "version": "1.0.0",
+  "description": "A website that shows my resume and a means of contacting me.",
+  "main": "contact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kwame Addo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
